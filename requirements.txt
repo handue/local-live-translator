@@ -1,0 +1,4 @@
+parakeet-mlx>=0.5
+pyobjc-framework-Cocoa>=10
+numpy
+requests

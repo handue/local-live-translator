@@ -1,0 +1,7 @@
+.venv/
+bin/
+transcripts/
+context.txt
+.cache_input.wav
+__pycache__/
+.DS_Store

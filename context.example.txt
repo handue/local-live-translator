@@ -1,0 +1,7 @@
+# Copy to context.txt and fill in before a call. It is added to the translation prompt
+# so the model picks the right terminology. Lines starting with # are sent too; delete what you don't need.
+
+Company: (e.g. Acme Corp — B2B SaaS, payments)
+Role: (e.g. Senior Backend Engineer)
+People: (e.g. Sarah Kim — Engineering Manager)
+Key terms: (e.g. Kubernetes, Kafka, idempotency, on-call, OKR, STAR method)
